@@ -36,3 +36,5 @@ python server.py
 ## License
 
 MIT
+
+## Updated project structure
